@@ -1,5 +1,7 @@
 # vuex-basics
 
+Installed through [Vue Cli 3](https://cli.vuejs.org/).
+
 ## Project setup
 ```
 npm install
